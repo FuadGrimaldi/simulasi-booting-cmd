@@ -1,1 +1,2 @@
-# simulasi-booting-cmd
+Simulasi Booting dan CMD
+
