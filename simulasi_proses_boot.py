@@ -1,6 +1,7 @@
 import time
 import datetime
 import os
+import tensorflow
 
 booting_flow = [
     "Starting the booting process", 
